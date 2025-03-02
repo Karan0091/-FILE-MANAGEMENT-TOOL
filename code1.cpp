@@ -1,6 +1,3 @@
-//CREATE A C++ APPLICATION TO READ,
- //WRITE, AND APPEND DATA TO TEXT
- //FILES..
 #include <iostream>
 #include <fstream>
 #include <string>

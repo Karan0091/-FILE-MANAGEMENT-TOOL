@@ -1,0 +1,45 @@
+=== File Operations Application ===
+Enter filename: karan.txt
+
+Choose an operation:
+1. Write to file (overwrite existing content)
+2. Append to file
+3. Read from file
+4. Exit
+Enter choice (1-4): 1                                  
+Enter content to write (end with a line containing only 'END'):
+hello i am karan patil
+END
+Content successfully written to karan.txt
+
+Choose an operation:
+1. Write to file (overwrite existing content)
+2. Append to file
+3. Read from file
+4. Exit
+Enter choice (1-4): 2
+Enter content to append (end with a line containing only 'END'):
+thise is the apended txt.
+END
+Content successfully appended to karan.txt
+
+Choose an operation:
+1. Write to file (overwrite existing content)
+2. Append to file
+3. Read from file
+4. Exit
+Enter choice (1-4): 3
+
+=== File Content ===
+hello i am karan patil
+thise is the apended txt.
+=== End of File ===
+
+Choose an operation:
+1. Write to file (overwrite existing content)
+2. Append to file
+3. Read from file
+4. Exit
+Enter choice (1-4): 4
+Exiting application. Goodbye!
+PS F:\code tec>
