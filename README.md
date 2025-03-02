@@ -21,3 +21,6 @@ The program offers an interactive menu for the user to choose one of these opera
 The program demonstrates the use of file handling in C++ by encapsulating file operations within a class called FileManager.
 Resources : vs code. 
 
+OUTPUT:
+[karan.txt](https://github.com/user-attachments/files/19041848/karan.txt
+
